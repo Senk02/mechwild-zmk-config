@@ -44,8 +44,8 @@
 
         raise_layer {
             bindings = <
-                &kp TILDE  &kp APOS   &trans      &trans    &trans    &trans    &trans    &trans     &trans     &trans      &kp PLUS      &kp BSLH
-                &kp PSCRN  &kp UNDER  &kp PLUS  &trans    &trans    &trans     &trans     &trans  &trans  &trans             &trans
+                &kp TILDE  &kp APOS   &trans      &trans    &trans    &trans    &trans    &trans     &trans     &trans      &kp EQUAL      &kp BSLH
+                &kp PSCRN  &kp UNDER  &trans  &trans    &trans    &trans     &trans     &trans  &trans  &trans             &trans
                 &trans     &trans     &trans    &trans    &trans    &trans     &trans     &kp LT    &kp GT               &kp PG_UP  &trans
                 &trans     &trans     &trans    &kp TAB             &kp TAB               &kp TAB             &kp HOME   &kp PG_DN  &trans   &trans
             >;
