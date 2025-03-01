@@ -47,7 +47,7 @@
                 &kp TILDE  &kp APOS   &trans      &trans    &trans    &trans    &trans    &trans     &trans     &trans      &kp EQUAL      &kp BSLH
                 &kp PSCRN  &kp UNDER  &trans  &trans    &trans    &trans     &trans     &trans  &trans  &trans             &trans
                 &trans     &trans     &trans    &trans    &trans    &trans     &trans     &kp LT    &kp GT               &kp PG_UP  &trans
-                &trans     &trans     &trans    &kp TAB             &kp TAB               &kp TAB             &kp HOME   &kp PG_DN  &trans   &trans
+                &trans     &trans     &trans    &trans             &trans               &trans             &kp HOME   &kp PG_DN  &trans   &trans
             >;
         };
 
